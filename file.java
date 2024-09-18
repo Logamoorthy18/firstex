@@ -4,6 +4,13 @@ prblic loga{
 		int a=10,b=20;
 		c=a+b;
 		sym.out.prt(c);
+              sym.out.prt(c);
+
+              sym.out.prt(c);
+                sym.out.prt(c);
+              sym.out.prt(c);
+                  sym.out.prt("thstd it");
+
 
 	}
 }
